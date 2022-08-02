@@ -10,7 +10,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "@discordjs/node-pre-gyp": "^0.4.1",
-    "@discordjs/opus": "^0.5.3",
+    "@discordjs/opus": "^0.8.0",
     "@iamtraction/google-translate": "^1.1.2",
     "@sentry/node": "^6.11.0",
     "@sentry/tracing": "^6.11.0",
