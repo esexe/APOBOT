@@ -11,7 +11,7 @@
   "dependencies": {
     "@discordjs/node-pre-gyp": "^0.4.1",
     "@discordjs/opus": "^0.5.3",
-    "@iamtraction/google-translate": "^1.1.2",
+    "@iamtraction/google-translate": "^2.0.1",
     "@sentry/node": "^6.11.0",
     "@sentry/tracing": "^6.11.0",
     "aki-api": "^5.2.1",
