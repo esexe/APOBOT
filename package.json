@@ -12,7 +12,7 @@
     "@discordjs/node-pre-gyp": "^0.4.1",
     "@discordjs/opus": "^0.5.3",
     "@iamtraction/google-translate": "^1.1.2",
-    "@sentry/node": "^6.11.0",
+    "@sentry/node": "^8.33.1",
     "@sentry/tracing": "^6.11.0",
     "aki-api": "^5.2.1",
     "better-sqlite3": "^7.4.3",
